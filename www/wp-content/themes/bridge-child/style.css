@@ -789,15 +789,10 @@ margin: 50px 0 0 0;
 
 .me_line_text01_1 > a {
     color: #ffecc0;
-    font-size: 24px;
-    font-weight: bold;
-    padding: 0 0 10px 0;
 }
 
 .me_line_text01_2 > a {
     color: #b5b5b4;
-    font-size: 16px;
-    font-weight: bold;
 }
 
 .me_line_text01_1 > a:hover {
@@ -807,7 +802,6 @@ margin: 50px 0 0 0;
 .me_line_text01_2 > a:hover {
     color: #fff;
 }
-
 
 .wow slideInRight {
 margin: 50px 0 0 0 !important;
@@ -879,6 +873,16 @@ line-height: 1.5;
 .blog_holder.blog_single article h2 {
     display: none;
 }
+
+
+
+
+
+
+
+
+
+
 
 /*   ----------------------------------------------------------------------- 모바일 -----------------------------------------------------------------------  */
 
@@ -1039,7 +1043,6 @@ border: 10px solid #d90000;
   font-size: 12px;
 }
 
-
 .sub_menu {
 display: none !important;
 }
@@ -1048,10 +1051,51 @@ nav.mobile_menu ul > li.has_sub > span.mobile_arrow i {
     display: none !important;
 }
 
+.carousel-inner .slider_content .thumb img {
+    max-height: 0%;
+    display: none !important;
+}
+
+.me_line_text01_1 {
+    font-size: 30px;
+    margin: 0 0 0 66px;
+}
+
+.me_line_text01_2 {
+    font-size: 20px;
+    margin: 0 0 0 66px;
+}
+
+.me_line_text01_1 > a {
+    color: #ffecc0;
+}
+
+.me_line_text01_2 > a {
+    color: #b5b5b4;
+}
+
+.me_line_text01_1 > a:hover {
+    color: #fff;
+}
+
+.me_line_text01_2 > a:hover {
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 }
-
 
 
 /*   ----------------------------------------------------------------------- 아이폰, 갤럭시 -----------------------------------------------------------------------  */
@@ -1165,7 +1209,6 @@ div.vc_row.wpb_row.section.vc_row-fluid.me_flex01.grid_section {
     align-items: flex-start; 
 }
 
-
 div.vc_col-sm-6.me_flex01_1.wpb_column.vc_column_container {
     -webkit-box-ordinal-group: 2;
     -moz-box-ordinal-group: 2;
@@ -1200,7 +1243,6 @@ div.vc_col-sm-6.me_flex01_2.wpb_column.vc_column_container {
     -webkit-align-items: flex-start;
     align-items: flex-start; 
 }
-
 
 .me_flex01_1 {
     -webkit-box-ordinal-group: 2;
@@ -1293,7 +1335,6 @@ border: 20px solid #d90000;
   letter-spacing: 0px;
 }
 
-
 .worpl_review02 {
   font-size: 14px;
 }
@@ -1333,7 +1374,31 @@ border: 20px solid #d90000;
   height: 10px !important;
 }
 
+.me_line_text01_1 {
+    font-size: 50px;
+    margin: 0 0 0 56px;
+}
 
+.me_line_text01_2 {
+    font-size: 36px;
+    margin: 20px 0 0 56px;
+}
+
+.me_line_text01_1 > a {
+    color: #ffecc0;
+}
+
+.me_line_text01_2 > a {
+    color: #b5b5b4;
+}
+
+.me_line_text01_1 > a:hover {
+    color: #fff;
+}
+
+.me_line_text01_2 > a:hover {
+    color: #fff;
+}
 
 
 
